@@ -86,7 +86,8 @@ I’m currently strengthening advanced data analytics skills.
 ## Contact
 
 * **Email:** [losasadavid52@gmail.com](mailto:losasadavid52@gmail.com)
-* **LinkedIn:** [David Losasa](https://www.linkedin.com/in/david-losasa-6894b42a7)
+* **LinkedIn:** [David Losasa Linkedin](https://www.linkedin.com/in/david-losasa-6894b42a7)
+* **Porfolio:** [David Losasa porfolio](https://davidlosasa.github.io/my-porfolio/)
 ---
 
 ###  *If you find my work interesting, consider starring my repositories!*
