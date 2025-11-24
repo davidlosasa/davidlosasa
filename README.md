@@ -69,9 +69,9 @@ I’m currently strengthening advanced data analytics skills.
 
 ##  Certifications
 
-* **Google Data Analytics – Coursera**
-* **Machine Learning with Python – Coursera**
-* **AI for Everyone – Coursera**
+* **[Google Data Analytics – Coursera](https://coursera.org/share/f12ccfd39e23941d38051c96fc6166a0)**
+* **[Machine Learning with Python – Coursera](https://coursera.org/share/b84c113531e9beebf9f5aaff0f51889e)**
+* **[AI for Everyone – Coursera](https://coursera.org/share/5d20a8045b24a19cbb536fea7134f5f9)**
 * **Modern Excel for Data Analysis – Udemy**
 
 ---
